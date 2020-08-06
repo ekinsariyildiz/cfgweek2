@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&display=swap');
+
+nav{
+    margin-top: 0;
+    background-color: rgb(194, 142, 194);
+    color: white;
+    display: inline-flex;
+    padding: 20px;
+    width: 100%;
+}
+nav ul {
+    list-style-type: none;
+    padding-left: 0;
+    text-align: right;
+    justify-items: right;
+    max-width: 100%;
+    padding-left: 900px;
+    padding-top: 10px; 
+}
+nav ul li { 
+    text-align: right;
+    justify-items: right;
+    display: inline; 
+    padding: 10px;
+   }
+   nav ul li a {
+    color:white;
+   }
+
+site-title {
+    position: absolute;
+
+}
+
+html,body {
+    margin:0;
+    font-family: 'Quicksand', sans-serif;
+}
+.bas-kisim {
+    text-align: center;
+    justify-content: center;
+    color: rosybrown;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:239px;
+    height:296px;
+    border-radius: 50%;
+  }
+
+.paragraph{
+    padding:35px;
+}
+.background{
+    display: inline-block;
+}
+#bg1 {
+      background-color: white;
+      display: inline-block;
+      width: 100%;
+      padding-bottom: 10px;
+  }
+#bg2 {
+    background-color: rgb(194, 142, 194);
+    display: inline-block;
+    width:100%;
+    color:white;
+
+}
+#bg,a{
+    color:white;
+}
+.facts{
+    float: left;
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+}
+.countries{
+    text-align: center;
+    float: left;
+    padding: 23px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.countries,img{
+    width: 300px;
+    height: 300px;}
+
+h1{
+    font-family: 'Arvo', serif;
+}
+
+h2 {
+    font-family: 'Arvo', serif;
+}
+
+h3{
+    font-family: 'Arvo', serif;
+}
+
